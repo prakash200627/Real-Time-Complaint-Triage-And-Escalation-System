@@ -19,9 +19,6 @@
 5. Run
 	- `python run.py`
 
-## Production run
-- Windows (Waitress): `waitress-serve --call run:app`
-- Linux (Gunicorn): `gunicorn -w 2 -b 0.0.0.0:8000 run:app`
 
 ## API Quickstart
 ### Register
